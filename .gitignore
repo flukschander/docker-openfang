@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+# VsCode
+.vscode/
+
+# mac os
+.DS_Store
