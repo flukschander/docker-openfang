@@ -1,6 +1,6 @@
 FROM --platform=$BUILDPLATFORM debian:bookworm-slim AS builder
 
-ARG OPENFANG_VERSION=0.6.4
+ARG OPENFANG_VERSION=0.6.9
 ARG TARGETARCH
 
 RUN apt-get update \
