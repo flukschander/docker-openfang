@@ -2,7 +2,6 @@
 
 [![Build](https://github.com/flukschander/docker-openfang/actions/workflows/build.yml/badge.svg)](https://github.com/flukschander/docker-openfang/actions/workflows/build.yml)
 [![Docker Pulls](https://badgen.net/docker/pulls/flukschander/openfang)](https://hub.docker.com/r/flukschander/openfang)
-[![Quay.io](https://badgen.net/badge/quay/enabled/green)](https://quay.io/repository/flukschander/openfang)
 
 Multi-arch Docker images for [OpenFang](https://github.com/RightNow-AI/openfang), the Agent Operating System.
 
@@ -45,7 +44,6 @@ volumes:
 Images are available on the following registries:
 
 - **Docker Hub**: `flukschander/openfang`
-- **Quay.io**: `quay.io/flukschander/openfang`
 - **GHCR**: `ghcr.io/flukschander/openfang`
 
 ## Configuration
